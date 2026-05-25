@@ -525,7 +525,8 @@ Mesh loadMesh(const char* path){
         auto n=m->mNormals?m->mNormals[i]:aiVector3D(0,1,0); verts.push_back(n.x); verts.push_back(n.y); verts.push_back(n.z);
         if(m->mTextureCoords[0]){ verts.push_back(m->mTextureCoords[0][i].x); verts.push_back(m->mTextureCoords[0][i].y); } else { verts.push_back(0); verts.push_back(0); }
         auto t=m->mTangents  ?m->mTangents[i]  :aiVector3D(1,0,0); auto b=m->mBitangents?m->mBitangents[i]:aiVector3D(0,0,1);
-        verts.push_back(t.x); verts.push_back(t.y); verts.push_back(t.z); verts.push_back(b.x); verts.push_back(b.y); verts.push_back(b.z);
+        verts.push_back(t.x); verts.push_back(t.y); verts.push_back(t.z); 
+        verts.push_back(b.x); verts.push_back(b.y); verts.push_back(b.z); // <-- LIGNE CORRIGÉE ICI
     }
     std::vector<unsigned> idx; idx.reserve(m->mNumFaces*3);
     for(unsigned i=0;i<m->mNumFaces;i++){ idx.push_back(m->mFaces[i].mIndices[0]); idx.push_back(m->mFaces[i].mIndices[1]); idx.push_back(m->mFaces[i].mIndices[2]); }
@@ -599,7 +600,8 @@ int main(){
     glfwWindowHint(GLFW_CONTEXT_VERSION_MINOR,1);
     glfwWindowHint(GLFW_OPENGL_PROFILE,GLFW_OPENGL_CORE_PROFILE);
     glfwWindowHint(GLFW_OPENGL_FORWARD_COMPAT,GL_TRUE);
-    GLFWwindow* win=glfwCreateWindow(1280,720,"CHROMATIC ECHOES",0,0);
+// La valeur NULL à la place de "glfwGetPrimaryMonitor()" force la fenêtre
+    GLFWwindow* win = glfwCreateWindow(1280, 720, "CHROMATIC ECHOES", NULL, NULL);
     glfwMakeContextCurrent(win);
     int fw,fh; glfwGetFramebufferSize(win,&fw,&fh);
     gladLoadGLLoader((GLADloadproc)glfwGetProcAddress);
@@ -625,23 +627,23 @@ int main(){
     GLuint leafVAO=makeLeaf(12.f,1.2f);
     int leafIdx=20*2*3;
 
-    GLuint texID=loadTex("assets/textures/puzzle_image.jpg");
+    GLuint texID = loadTex("/Users/rouamizouni/Desktop/MIZOUNI_STUDENT1_2026/assets/textures/puzzle_image.jpg");
     GLuint sphereVAO=makeSphere();
     GLuint skyVAO=makeSphere();
 
     // ── Cubemap pour water reflection ─────────────────────────────────────────
     GLuint skyboxTex=loadCubemap({
-        "assets/textures/skybox/right.jpg",
-        "assets/textures/skybox/left.jpg",
-        "assets/textures/skybox/top.jpg",
-        "assets/textures/skybox/bottom.jpg",
-        "assets/textures/skybox/front.jpg",
-        "assets/textures/skybox/back.jpg"
+        "/Users/rouamizouni/Desktop/MIZOUNI_STUDENT1_2026/assets/textures/skybox/right.jpg",
+        "/Users/rouamizouni/Desktop/MIZOUNI_STUDENT1_2026/assets/textures/skybox/left.jpg",
+        "/Users/rouamizouni/Desktop/MIZOUNI_STUDENT1_2026/assets/textures/skybox/top.jpg",
+        "/Users/rouamizouni/Desktop/MIZOUNI_STUDENT1_2026/assets/textures/skybox/bottom.jpg",
+        "/Users/rouamizouni/Desktop/MIZOUNI_STUDENT1_2026/assets/textures/skybox/front.jpg",
+        "/Users/rouamizouni/Desktop/MIZOUNI_STUDENT1_2026/assets/textures/skybox/back.jpg"
     });
 
     // ── Assimp models ────────────────────────────────────────────────────────
-    Mesh shellMesh = loadMesh("assets/models/shell.obj");
-    GLuint shellTex = loadTex("assets/textures/shell_diffuse.jpg");
+    Mesh shellMesh = loadMesh("/Users/rouamizouni/Desktop/MIZOUNI_STUDENT1_2026assets/models/shell.obj");
+    GLuint shellTex = loadTex("/Users/rouamizouni/Desktop/MIZOUNI_STUDENT1_2026assets/textures/shell_diffuse.jpg");
 
     int wIdx=64*64*6; GLuint watVAO=makeGrid(2000000,2000000,64,0);
     int sIdx=32*32*6; GLuint sndVAO=makeGrid(400,300,32,0);
