@@ -429,6 +429,36 @@ CMakeFiles/chromatic_echoes.dir/main.cpp.o
  /Library/Developer/CommandLineTools/usr/lib/clang/14.0.0/include/stddef.h
  /Library/Developer/CommandLineTools/usr/lib/clang/14.0.0/include/stdint.h
  /Library/Developer/CommandLineTools/usr/lib/clang/14.0.0/include/xmmintrin.h
+ /Users/rouamizouni/Desktop/chromatic_final_zip/third_party/assimp/include/assimp/Compiler/poppack1.h
+ /Users/rouamizouni/Desktop/chromatic_final_zip/third_party/assimp/include/assimp/Compiler/pushpack1.h
+ /Users/rouamizouni/Desktop/chromatic_final_zip/third_party/assimp/include/assimp/Importer.hpp
+ /Users/rouamizouni/Desktop/chromatic_final_zip/third_party/assimp/include/assimp/MathFunctions.h
+ /Users/rouamizouni/Desktop/chromatic_final_zip/third_party/assimp/include/assimp/aabb.h
+ /Users/rouamizouni/Desktop/chromatic_final_zip/third_party/assimp/include/assimp/anim.h
+ /Users/rouamizouni/Desktop/chromatic_final_zip/third_party/assimp/include/assimp/camera.h
+ /Users/rouamizouni/Desktop/chromatic_final_zip/third_party/assimp/include/assimp/color4.h
+ /Users/rouamizouni/Desktop/chromatic_final_zip/third_party/assimp/include/assimp/color4.inl
+ /Users/rouamizouni/Desktop/chromatic_final_zip/third_party/assimp/include/assimp/config.h
+ /Users/rouamizouni/Desktop/chromatic_final_zip/third_party/assimp/include/assimp/defs.h
+ /Users/rouamizouni/Desktop/chromatic_final_zip/third_party/assimp/include/assimp/light.h
+ /Users/rouamizouni/Desktop/chromatic_final_zip/third_party/assimp/include/assimp/material.h
+ /Users/rouamizouni/Desktop/chromatic_final_zip/third_party/assimp/include/assimp/material.inl
+ /Users/rouamizouni/Desktop/chromatic_final_zip/third_party/assimp/include/assimp/matrix3x3.h
+ /Users/rouamizouni/Desktop/chromatic_final_zip/third_party/assimp/include/assimp/matrix3x3.inl
+ /Users/rouamizouni/Desktop/chromatic_final_zip/third_party/assimp/include/assimp/matrix4x4.h
+ /Users/rouamizouni/Desktop/chromatic_final_zip/third_party/assimp/include/assimp/matrix4x4.inl
+ /Users/rouamizouni/Desktop/chromatic_final_zip/third_party/assimp/include/assimp/mesh.h
+ /Users/rouamizouni/Desktop/chromatic_final_zip/third_party/assimp/include/assimp/metadata.h
+ /Users/rouamizouni/Desktop/chromatic_final_zip/third_party/assimp/include/assimp/postprocess.h
+ /Users/rouamizouni/Desktop/chromatic_final_zip/third_party/assimp/include/assimp/quaternion.h
+ /Users/rouamizouni/Desktop/chromatic_final_zip/third_party/assimp/include/assimp/quaternion.inl
+ /Users/rouamizouni/Desktop/chromatic_final_zip/third_party/assimp/include/assimp/scene.h
+ /Users/rouamizouni/Desktop/chromatic_final_zip/third_party/assimp/include/assimp/texture.h
+ /Users/rouamizouni/Desktop/chromatic_final_zip/third_party/assimp/include/assimp/types.h
+ /Users/rouamizouni/Desktop/chromatic_final_zip/third_party/assimp/include/assimp/vector2.h
+ /Users/rouamizouni/Desktop/chromatic_final_zip/third_party/assimp/include/assimp/vector2.inl
+ /Users/rouamizouni/Desktop/chromatic_final_zip/third_party/assimp/include/assimp/vector3.h
+ /Users/rouamizouni/Desktop/chromatic_final_zip/third_party/assimp/include/assimp/vector3.inl
  /Users/rouamizouni/Desktop/chromatic_final_zip/third_party/glad/include/KHR/khrplatform.h
  /Users/rouamizouni/Desktop/chromatic_final_zip/third_party/glad/include/glad/glad.h
  /Users/rouamizouni/Desktop/chromatic_final_zip/third_party/glm/glm/common.hpp

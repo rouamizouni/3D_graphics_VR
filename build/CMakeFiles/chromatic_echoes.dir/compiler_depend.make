@@ -428,6 +428,36 @@ CMakeFiles/chromatic_echoes.dir/main.cpp.o: /Users/rouamizouni/Desktop/chromatic
   /Library/Developer/CommandLineTools/usr/lib/clang/14.0.0/include/stddef.h \
   /Library/Developer/CommandLineTools/usr/lib/clang/14.0.0/include/stdint.h \
   /Library/Developer/CommandLineTools/usr/lib/clang/14.0.0/include/xmmintrin.h \
+  /Users/rouamizouni/Desktop/chromatic_final_zip/third_party/assimp/include/assimp/Compiler/poppack1.h \
+  /Users/rouamizouni/Desktop/chromatic_final_zip/third_party/assimp/include/assimp/Compiler/pushpack1.h \
+  /Users/rouamizouni/Desktop/chromatic_final_zip/third_party/assimp/include/assimp/Importer.hpp \
+  /Users/rouamizouni/Desktop/chromatic_final_zip/third_party/assimp/include/assimp/MathFunctions.h \
+  /Users/rouamizouni/Desktop/chromatic_final_zip/third_party/assimp/include/assimp/aabb.h \
+  /Users/rouamizouni/Desktop/chromatic_final_zip/third_party/assimp/include/assimp/anim.h \
+  /Users/rouamizouni/Desktop/chromatic_final_zip/third_party/assimp/include/assimp/camera.h \
+  /Users/rouamizouni/Desktop/chromatic_final_zip/third_party/assimp/include/assimp/color4.h \
+  /Users/rouamizouni/Desktop/chromatic_final_zip/third_party/assimp/include/assimp/color4.inl \
+  /Users/rouamizouni/Desktop/chromatic_final_zip/third_party/assimp/include/assimp/config.h \
+  /Users/rouamizouni/Desktop/chromatic_final_zip/third_party/assimp/include/assimp/defs.h \
+  /Users/rouamizouni/Desktop/chromatic_final_zip/third_party/assimp/include/assimp/light.h \
+  /Users/rouamizouni/Desktop/chromatic_final_zip/third_party/assimp/include/assimp/material.h \
+  /Users/rouamizouni/Desktop/chromatic_final_zip/third_party/assimp/include/assimp/material.inl \
+  /Users/rouamizouni/Desktop/chromatic_final_zip/third_party/assimp/include/assimp/matrix3x3.h \
+  /Users/rouamizouni/Desktop/chromatic_final_zip/third_party/assimp/include/assimp/matrix3x3.inl \
+  /Users/rouamizouni/Desktop/chromatic_final_zip/third_party/assimp/include/assimp/matrix4x4.h \
+  /Users/rouamizouni/Desktop/chromatic_final_zip/third_party/assimp/include/assimp/matrix4x4.inl \
+  /Users/rouamizouni/Desktop/chromatic_final_zip/third_party/assimp/include/assimp/mesh.h \
+  /Users/rouamizouni/Desktop/chromatic_final_zip/third_party/assimp/include/assimp/metadata.h \
+  /Users/rouamizouni/Desktop/chromatic_final_zip/third_party/assimp/include/assimp/postprocess.h \
+  /Users/rouamizouni/Desktop/chromatic_final_zip/third_party/assimp/include/assimp/quaternion.h \
+  /Users/rouamizouni/Desktop/chromatic_final_zip/third_party/assimp/include/assimp/quaternion.inl \
+  /Users/rouamizouni/Desktop/chromatic_final_zip/third_party/assimp/include/assimp/scene.h \
+  /Users/rouamizouni/Desktop/chromatic_final_zip/third_party/assimp/include/assimp/texture.h \
+  /Users/rouamizouni/Desktop/chromatic_final_zip/third_party/assimp/include/assimp/types.h \
+  /Users/rouamizouni/Desktop/chromatic_final_zip/third_party/assimp/include/assimp/vector2.h \
+  /Users/rouamizouni/Desktop/chromatic_final_zip/third_party/assimp/include/assimp/vector2.inl \
+  /Users/rouamizouni/Desktop/chromatic_final_zip/third_party/assimp/include/assimp/vector3.h \
+  /Users/rouamizouni/Desktop/chromatic_final_zip/third_party/assimp/include/assimp/vector3.inl \
   /Users/rouamizouni/Desktop/chromatic_final_zip/third_party/glad/include/KHR/khrplatform.h \
   /Users/rouamizouni/Desktop/chromatic_final_zip/third_party/glad/include/glad/glad.h \
   /Users/rouamizouni/Desktop/chromatic_final_zip/third_party/glm/glm/common.hpp \
@@ -862,17 +892,11 @@ CMakeFiles/chromatic_echoes.dir/third_party/glad/src/glad.c.o: /Users/rouamizoun
 
 /Users/rouamizouni/Desktop/chromatic_final_zip/third_party/glm/glm/ext/vector_double3.hpp:
 
-/Users/rouamizouni/Desktop/chromatic_final_zip/third_party/glm/glm/ext/vector_double2.hpp:
-
 /Users/rouamizouni/Desktop/chromatic_final_zip/third_party/glm/glm/ext/vector_bool3.hpp:
 
 /Users/rouamizouni/Desktop/chromatic_final_zip/third_party/glm/glm/ext/vector_bool2.hpp:
 
 /Users/rouamizouni/Desktop/chromatic_final_zip/third_party/glm/glm/ext/quaternion_relational.inl:
-
-/Users/rouamizouni/Desktop/chromatic_final_zip/third_party/glm/glm/gtc/constants.inl:
-
-/Users/rouamizouni/Desktop/chromatic_final_zip/third_party/glm/glm/ext/quaternion_common.inl:
 
 /usr/local/include/GLFW/glfw3.h:
 
@@ -907,8 +931,6 @@ CMakeFiles/chromatic_echoes.dir/third_party/glad/src/glad.c.o: /Users/rouamizoun
 /Users/rouamizouni/Desktop/chromatic_final_zip/third_party/glm/glm/ext/matrix_double4x2.hpp:
 
 /Users/rouamizouni/Desktop/chromatic_final_zip/third_party/glm/glm/ext/matrix_double3x3.hpp:
-
-/Users/rouamizouni/Desktop/chromatic_final_zip/third_party/glm/glm/ext/matrix_double3x2_precision.hpp:
 
 /Users/rouamizouni/Desktop/chromatic_final_zip/third_party/glm/glm/ext/matrix_double3x2.hpp:
 
@@ -969,6 +991,46 @@ CMakeFiles/chromatic_echoes.dir/third_party/glad/src/glad.c.o: /Users/rouamizoun
 /Users/rouamizouni/Desktop/chromatic_final_zip/third_party/glad/include/glad/glad.h:
 
 /Users/rouamizouni/Desktop/chromatic_final_zip/third_party/glad/include/KHR/khrplatform.h:
+
+/Users/rouamizouni/Desktop/chromatic_final_zip/third_party/assimp/include/assimp/vector3.h:
+
+/Users/rouamizouni/Desktop/chromatic_final_zip/third_party/assimp/include/assimp/vector2.h:
+
+/Users/rouamizouni/Desktop/chromatic_final_zip/third_party/assimp/include/assimp/types.h:
+
+/Users/rouamizouni/Desktop/chromatic_final_zip/third_party/glm/glm/ext/vector_double2.hpp:
+
+/Users/rouamizouni/Desktop/chromatic_final_zip/third_party/assimp/include/assimp/scene.h:
+
+/Users/rouamizouni/Desktop/chromatic_final_zip/third_party/assimp/include/assimp/quaternion.inl:
+
+/Users/rouamizouni/Desktop/chromatic_final_zip/third_party/assimp/include/assimp/quaternion.h:
+
+/Users/rouamizouni/Desktop/chromatic_final_zip/third_party/assimp/include/assimp/postprocess.h:
+
+/Users/rouamizouni/Desktop/chromatic_final_zip/third_party/assimp/include/assimp/metadata.h:
+
+/Users/rouamizouni/Desktop/chromatic_final_zip/third_party/glm/glm/gtc/constants.inl:
+
+/Users/rouamizouni/Desktop/chromatic_final_zip/third_party/glm/glm/ext/quaternion_common.inl:
+
+/Users/rouamizouni/Desktop/chromatic_final_zip/third_party/assimp/include/assimp/matrix4x4.inl:
+
+/Users/rouamizouni/Desktop/chromatic_final_zip/third_party/assimp/include/assimp/matrix4x4.h:
+
+/Users/rouamizouni/Desktop/chromatic_final_zip/third_party/glm/glm/ext/matrix_double3x2_precision.hpp:
+
+/Users/rouamizouni/Desktop/chromatic_final_zip/third_party/assimp/include/assimp/matrix3x3.h:
+
+/Users/rouamizouni/Desktop/chromatic_final_zip/third_party/assimp/include/assimp/defs.h:
+
+/Users/rouamizouni/Desktop/chromatic_final_zip/third_party/assimp/include/assimp/aabb.h:
+
+/Users/rouamizouni/Desktop/chromatic_final_zip/third_party/assimp/include/assimp/MathFunctions.h:
+
+/Users/rouamizouni/Desktop/chromatic_final_zip/third_party/assimp/include/assimp/Importer.hpp:
+
+/Users/rouamizouni/Desktop/chromatic_final_zip/third_party/assimp/include/assimp/Compiler/poppack1.h:
 
 /Library/Developer/CommandLineTools/usr/lib/clang/14.0.0/include/xmmintrin.h:
 
@@ -1067,6 +1129,8 @@ CMakeFiles/chromatic_echoes.dir/third_party/glad/src/glad.c.o: /Users/rouamizoun
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/sys/_types/_int32_t.h:
 
 /Users/rouamizouni/Desktop/chromatic_final_zip/third_party/glm/glm/integer.hpp:
+
+/Users/rouamizouni/Desktop/chromatic_final_zip/third_party/assimp/include/assimp/light.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/sys/_types/_ino_t.h:
 
@@ -1206,6 +1270,8 @@ CMakeFiles/chromatic_echoes.dir/third_party/glad/src/glad.c.o: /Users/rouamizoun
 
 /Users/rouamizouni/Desktop/chromatic_final_zip/third_party/glm/glm/ext/matrix_float4x3.hpp:
 
+/Users/rouamizouni/Desktop/chromatic_final_zip/third_party/assimp/include/assimp/material.h:
+
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/typeinfo:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/i386/_limits.h:
@@ -1260,11 +1326,17 @@ CMakeFiles/chromatic_echoes.dir/third_party/glad/src/glad.c.o: /Users/rouamizoun
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/i386/endian.h:
 
+/Users/rouamizouni/Desktop/chromatic_final_zip/third_party/assimp/include/assimp/config.h:
+
+/Users/rouamizouni/Desktop/chromatic_final_zip/third_party/assimp/include/assimp/color4.h:
+
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/sys/_pthread/_pthread_key_t.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/streambuf:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/stdlib.h:
+
+/Users/rouamizouni/Desktop/chromatic_final_zip/third_party/assimp/include/assimp/anim.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__string:
 
@@ -1275,6 +1347,8 @@ CMakeFiles/chromatic_echoes.dir/third_party/glad/src/glad.c.o: /Users/rouamizoun
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__algorithm/partition_point.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/sys/_types/_fd_def.h:
+
+/Users/rouamizouni/Desktop/chromatic_final_zip/third_party/assimp/include/assimp/vector2.inl:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/sys/_types/_u_int32_t.h:
 
@@ -1369,6 +1443,8 @@ CMakeFiles/chromatic_echoes.dir/third_party/glad/src/glad.c.o: /Users/rouamizoun
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/cctype:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__utility/to_underlying.h:
+
+/Users/rouamizouni/Desktop/chromatic_final_zip/third_party/assimp/include/assimp/material.inl:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__utility/rel_ops.h:
 
@@ -1508,9 +1584,13 @@ CMakeFiles/chromatic_echoes.dir/third_party/glad/src/glad.c.o: /Users/rouamizoun
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__iterator/reverse_iterator.h:
 
+/Users/rouamizouni/Desktop/chromatic_final_zip/third_party/assimp/include/assimp/Compiler/pushpack1.h:
+
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__iterator/reverse_access.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__iterator/iterator.h:
+
+/Users/rouamizouni/Desktop/chromatic_final_zip/third_party/assimp/include/assimp/camera.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__memory/temporary_buffer.h:
 
@@ -1647,6 +1727,8 @@ CMakeFiles/chromatic_echoes.dir/third_party/glad/src/glad.c.o: /Users/rouamizoun
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__memory/unique_ptr.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__algorithm/replace_if.h:
+
+/Users/rouamizouni/Desktop/chromatic_final_zip/third_party/assimp/include/assimp/matrix3x3.inl:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__function_like.h:
 
@@ -1902,6 +1984,8 @@ CMakeFiles/chromatic_echoes.dir/third_party/glad/src/glad.c.o: /Users/rouamizoun
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__algorithm/partition_copy.h:
 
+/Users/rouamizouni/Desktop/chromatic_final_zip/third_party/assimp/include/assimp/vector3.inl:
+
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__memory/pointer_safety.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/machine/_mcontext.h:
@@ -1934,6 +2018,8 @@ CMakeFiles/chromatic_echoes.dir/third_party/glad/src/glad.c.o: /Users/rouamizoun
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__algorithm/for_each_n.h:
 
+/Users/rouamizouni/Desktop/chromatic_final_zip/third_party/assimp/include/assimp/mesh.h:
+
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/_types/_uint32_t.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__algorithm/find_if_not.h:
@@ -1960,7 +2046,11 @@ CMakeFiles/chromatic_echoes.dir/third_party/glad/src/glad.c.o: /Users/rouamizoun
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__algorithm/find_first_of.h:
 
+/Users/rouamizouni/Desktop/chromatic_final_zip/third_party/assimp/include/assimp/texture.h:
+
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__algorithm/is_sorted_until.h:
+
+/Users/rouamizouni/Desktop/chromatic_final_zip/third_party/assimp/include/assimp/color4.inl:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/stdint.h:
 
