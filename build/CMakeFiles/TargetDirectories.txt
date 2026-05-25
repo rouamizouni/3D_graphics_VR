@@ -1,0 +1,3 @@
+/Users/rouamizouni/Desktop/chromatic_final_zip/build/CMakeFiles/chromatic_echoes.dir
+/Users/rouamizouni/Desktop/chromatic_final_zip/build/CMakeFiles/edit_cache.dir
+/Users/rouamizouni/Desktop/chromatic_final_zip/build/CMakeFiles/rebuild_cache.dir

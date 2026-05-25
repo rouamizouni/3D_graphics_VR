@@ -1,0 +1,4 @@
+Place your puzzle image here and name it:
+    puzzle_image.jpg
+
+Any JPG photo works. The 30 pieces will each show a different slice of it.

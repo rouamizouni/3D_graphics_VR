@@ -1,0 +1,9 @@
+libdir=/Users/rouamizouni/chromatic_echoes_clean/third_party/assimp/lib
+includedir=/Users/rouamizouni/chromatic_echoes_clean/third_party/assimp/include
+
+Name: Assimp
+Description: Import various well-known 3D model formats in an uniform manner.
+Version: 5.3.0
+Libs: -L${libdir} -lassimp
+Libs.private:  
+Cflags: -I${includedir}
