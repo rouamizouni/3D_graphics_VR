@@ -5,13 +5,13 @@
 # compile CXX with /usr/bin/c++
 C_DEFINES = -DGLFW_INCLUDE_NONE -DGL_SILENCE_DEPRECATION
 
-C_INCLUDES = -I/Users/rouamizouni/Desktop/chromatic_final_zip -I/Users/rouamizouni/Desktop/chromatic_final_zip/third_party/glad/include -I/Users/rouamizouni/Desktop/chromatic_final_zip/third_party/stb -I/Users/rouamizouni/Desktop/chromatic_final_zip/third_party/glm -I/Users/rouamizouni/Desktop/chromatic_final_zip/third_party/assimp/include -iframework /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/Frameworks
+C_INCLUDES = -I/Users/rouamizouni/Desktop/MIZOUNI_STUDENT1_2026 -I/Users/rouamizouni/Desktop/MIZOUNI_STUDENT1_2026/third_party/glad/include -I/Users/rouamizouni/Desktop/MIZOUNI_STUDENT1_2026/third_party/stb -I/Users/rouamizouni/Desktop/MIZOUNI_STUDENT1_2026/third_party/glm -I/Users/rouamizouni/Desktop/MIZOUNI_STUDENT1_2026/third_party/assimp/include -iframework /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/Frameworks
 
-C_FLAGS = -O3 -DNDEBUG
+C_FLAGS = 
 
 CXX_DEFINES = -DGLFW_INCLUDE_NONE -DGL_SILENCE_DEPRECATION
 
-CXX_INCLUDES = -I/Users/rouamizouni/Desktop/chromatic_final_zip -I/Users/rouamizouni/Desktop/chromatic_final_zip/third_party/glad/include -I/Users/rouamizouni/Desktop/chromatic_final_zip/third_party/stb -I/Users/rouamizouni/Desktop/chromatic_final_zip/third_party/glm -I/Users/rouamizouni/Desktop/chromatic_final_zip/third_party/assimp/include -iframework /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/Frameworks
+CXX_INCLUDES = -I/Users/rouamizouni/Desktop/MIZOUNI_STUDENT1_2026 -I/Users/rouamizouni/Desktop/MIZOUNI_STUDENT1_2026/third_party/glad/include -I/Users/rouamizouni/Desktop/MIZOUNI_STUDENT1_2026/third_party/stb -I/Users/rouamizouni/Desktop/MIZOUNI_STUDENT1_2026/third_party/glm -I/Users/rouamizouni/Desktop/MIZOUNI_STUDENT1_2026/third_party/assimp/include -iframework /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/Frameworks
 
-CXX_FLAGS = -O3 -DNDEBUG -std=gnu++17
+CXX_FLAGS = -std=gnu++17
 

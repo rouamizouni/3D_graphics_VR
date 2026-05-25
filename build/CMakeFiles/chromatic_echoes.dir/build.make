@@ -53,10 +53,10 @@ RM = /usr/local/bin/cmake -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /Users/rouamizouni/Desktop/chromatic_final_zip
+CMAKE_SOURCE_DIR = /Users/rouamizouni/Desktop/MIZOUNI_STUDENT1_2026
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /Users/rouamizouni/Desktop/chromatic_final_zip/build
+CMAKE_BINARY_DIR = /Users/rouamizouni/Desktop/MIZOUNI_STUDENT1_2026/build
 
 # Include any dependencies generated for this target.
 include CMakeFiles/chromatic_echoes.dir/depend.make
@@ -73,32 +73,32 @@ CMakeFiles/chromatic_echoes.dir/codegen:
 .PHONY : CMakeFiles/chromatic_echoes.dir/codegen
 
 CMakeFiles/chromatic_echoes.dir/main.cpp.o: CMakeFiles/chromatic_echoes.dir/flags.make
-CMakeFiles/chromatic_echoes.dir/main.cpp.o: /Users/rouamizouni/Desktop/chromatic_final_zip/main.cpp
+CMakeFiles/chromatic_echoes.dir/main.cpp.o: /Users/rouamizouni/Desktop/MIZOUNI_STUDENT1_2026/main.cpp
 CMakeFiles/chromatic_echoes.dir/main.cpp.o: CMakeFiles/chromatic_echoes.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/rouamizouni/Desktop/chromatic_final_zip/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/chromatic_echoes.dir/main.cpp.o"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/chromatic_echoes.dir/main.cpp.o -MF CMakeFiles/chromatic_echoes.dir/main.cpp.o.d -o CMakeFiles/chromatic_echoes.dir/main.cpp.o -c /Users/rouamizouni/Desktop/chromatic_final_zip/main.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/rouamizouni/Desktop/MIZOUNI_STUDENT1_2026/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/chromatic_echoes.dir/main.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/chromatic_echoes.dir/main.cpp.o -MF CMakeFiles/chromatic_echoes.dir/main.cpp.o.d -o CMakeFiles/chromatic_echoes.dir/main.cpp.o -c /Users/rouamizouni/Desktop/MIZOUNI_STUDENT1_2026/main.cpp
 
 CMakeFiles/chromatic_echoes.dir/main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/chromatic_echoes.dir/main.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/rouamizouni/Desktop/chromatic_final_zip/main.cpp > CMakeFiles/chromatic_echoes.dir/main.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/rouamizouni/Desktop/MIZOUNI_STUDENT1_2026/main.cpp > CMakeFiles/chromatic_echoes.dir/main.cpp.i
 
 CMakeFiles/chromatic_echoes.dir/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/chromatic_echoes.dir/main.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/rouamizouni/Desktop/chromatic_final_zip/main.cpp -o CMakeFiles/chromatic_echoes.dir/main.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/rouamizouni/Desktop/MIZOUNI_STUDENT1_2026/main.cpp -o CMakeFiles/chromatic_echoes.dir/main.cpp.s
 
 CMakeFiles/chromatic_echoes.dir/third_party/glad/src/glad.c.o: CMakeFiles/chromatic_echoes.dir/flags.make
-CMakeFiles/chromatic_echoes.dir/third_party/glad/src/glad.c.o: /Users/rouamizouni/Desktop/chromatic_final_zip/third_party/glad/src/glad.c
+CMakeFiles/chromatic_echoes.dir/third_party/glad/src/glad.c.o: /Users/rouamizouni/Desktop/MIZOUNI_STUDENT1_2026/third_party/glad/src/glad.c
 CMakeFiles/chromatic_echoes.dir/third_party/glad/src/glad.c.o: CMakeFiles/chromatic_echoes.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/rouamizouni/Desktop/chromatic_final_zip/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building C object CMakeFiles/chromatic_echoes.dir/third_party/glad/src/glad.c.o"
-	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/chromatic_echoes.dir/third_party/glad/src/glad.c.o -MF CMakeFiles/chromatic_echoes.dir/third_party/glad/src/glad.c.o.d -o CMakeFiles/chromatic_echoes.dir/third_party/glad/src/glad.c.o -c /Users/rouamizouni/Desktop/chromatic_final_zip/third_party/glad/src/glad.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/rouamizouni/Desktop/MIZOUNI_STUDENT1_2026/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building C object CMakeFiles/chromatic_echoes.dir/third_party/glad/src/glad.c.o"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/chromatic_echoes.dir/third_party/glad/src/glad.c.o -MF CMakeFiles/chromatic_echoes.dir/third_party/glad/src/glad.c.o.d -o CMakeFiles/chromatic_echoes.dir/third_party/glad/src/glad.c.o -c /Users/rouamizouni/Desktop/MIZOUNI_STUDENT1_2026/third_party/glad/src/glad.c
 
 CMakeFiles/chromatic_echoes.dir/third_party/glad/src/glad.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/chromatic_echoes.dir/third_party/glad/src/glad.c.i"
-	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/rouamizouni/Desktop/chromatic_final_zip/third_party/glad/src/glad.c > CMakeFiles/chromatic_echoes.dir/third_party/glad/src/glad.c.i
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/rouamizouni/Desktop/MIZOUNI_STUDENT1_2026/third_party/glad/src/glad.c > CMakeFiles/chromatic_echoes.dir/third_party/glad/src/glad.c.i
 
 CMakeFiles/chromatic_echoes.dir/third_party/glad/src/glad.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/chromatic_echoes.dir/third_party/glad/src/glad.c.s"
-	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/rouamizouni/Desktop/chromatic_final_zip/third_party/glad/src/glad.c -o CMakeFiles/chromatic_echoes.dir/third_party/glad/src/glad.c.s
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/rouamizouni/Desktop/MIZOUNI_STUDENT1_2026/third_party/glad/src/glad.c -o CMakeFiles/chromatic_echoes.dir/third_party/glad/src/glad.c.s
 
 # Object files for target chromatic_echoes
 chromatic_echoes_OBJECTS = \
@@ -113,12 +113,12 @@ bin/chromatic_echoes: CMakeFiles/chromatic_echoes.dir/third_party/glad/src/glad.
 bin/chromatic_echoes: CMakeFiles/chromatic_echoes.dir/build.make
 bin/chromatic_echoes: /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/Frameworks/OpenGL.framework
 bin/chromatic_echoes: /usr/local/lib/libglfw.dylib
-bin/chromatic_echoes: /Users/rouamizouni/Desktop/chromatic_final_zip/third_party/assimp/lib/libassimp.dylib
+bin/chromatic_echoes: /Users/rouamizouni/Desktop/MIZOUNI_STUDENT1_2026/third_party/assimp/lib/libassimp.dylib
 bin/chromatic_echoes: CMakeFiles/chromatic_echoes.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=/Users/rouamizouni/Desktop/chromatic_final_zip/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Linking CXX executable bin/chromatic_echoes"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=/Users/rouamizouni/Desktop/MIZOUNI_STUDENT1_2026/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Linking CXX executable bin/chromatic_echoes"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/chromatic_echoes.dir/link.txt --verbose=$(VERBOSE)
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --blue --bold "Copying assets..."
-	/usr/local/bin/cmake -E copy_directory /Users/rouamizouni/Desktop/chromatic_final_zip/assets /Users/rouamizouni/Desktop/chromatic_final_zip/build/bin/assets
+	/usr/local/bin/cmake -E copy_directory /Users/rouamizouni/Desktop/MIZOUNI_STUDENT1_2026/assets /Users/rouamizouni/Desktop/MIZOUNI_STUDENT1_2026/build/bin/assets
 
 # Rule to build all files generated by this target.
 CMakeFiles/chromatic_echoes.dir/build: bin/chromatic_echoes
@@ -129,6 +129,6 @@ CMakeFiles/chromatic_echoes.dir/clean:
 .PHONY : CMakeFiles/chromatic_echoes.dir/clean
 
 CMakeFiles/chromatic_echoes.dir/depend:
-	cd /Users/rouamizouni/Desktop/chromatic_final_zip/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /Users/rouamizouni/Desktop/chromatic_final_zip /Users/rouamizouni/Desktop/chromatic_final_zip /Users/rouamizouni/Desktop/chromatic_final_zip/build /Users/rouamizouni/Desktop/chromatic_final_zip/build /Users/rouamizouni/Desktop/chromatic_final_zip/build/CMakeFiles/chromatic_echoes.dir/DependInfo.cmake "--color=$(COLOR)" chromatic_echoes
+	cd /Users/rouamizouni/Desktop/MIZOUNI_STUDENT1_2026/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /Users/rouamizouni/Desktop/MIZOUNI_STUDENT1_2026 /Users/rouamizouni/Desktop/MIZOUNI_STUDENT1_2026 /Users/rouamizouni/Desktop/MIZOUNI_STUDENT1_2026/build /Users/rouamizouni/Desktop/MIZOUNI_STUDENT1_2026/build /Users/rouamizouni/Desktop/MIZOUNI_STUDENT1_2026/build/CMakeFiles/chromatic_echoes.dir/DependInfo.cmake "--color=$(COLOR)" chromatic_echoes
 .PHONY : CMakeFiles/chromatic_echoes.dir/depend
 

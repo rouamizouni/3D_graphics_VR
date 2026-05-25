@@ -1,5 +1,5 @@
 CMakeFiles/chromatic_echoes.dir/third_party/glad/src/glad.c.o: \
-  /Users/rouamizouni/Desktop/chromatic_final_zip/third_party/glad/src/glad.c \
+  /Users/rouamizouni/Desktop/MIZOUNI_STUDENT1_2026/third_party/glad/src/glad.c \
   /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/stdio.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/_stdio.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/sys/cdefs.h \
@@ -79,7 +79,7 @@ CMakeFiles/chromatic_echoes.dir/third_party/glad/src/glad.c.o: \
   /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/strings.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/secure/_strings.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/secure/_string.h \
-  /Users/rouamizouni/Desktop/chromatic_final_zip/third_party/glad/include/glad/glad.h \
-  /Users/rouamizouni/Desktop/chromatic_final_zip/third_party/glad/include/KHR/khrplatform.h \
+  /Users/rouamizouni/Desktop/MIZOUNI_STUDENT1_2026/third_party/glad/include/glad/glad.h \
+  /Users/rouamizouni/Desktop/MIZOUNI_STUDENT1_2026/third_party/glad/include/KHR/khrplatform.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/dlfcn.h \
   /Library/Developer/CommandLineTools/usr/lib/clang/14.0.0/include/stdbool.h
